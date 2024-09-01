@@ -2,6 +2,6 @@
     "点击存储":{
         "recongnition":"OCR",
         "expected":"存储",
-        "action":"click"
+        "action":"Click"
     }
 }
